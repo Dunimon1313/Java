@@ -1,0 +1,1 @@
+database building -> run dbscript.sql and operationslog.sql from database folder as root user in MySQL Workbench for fresh database
